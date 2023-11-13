@@ -1,0 +1,55 @@
+﻿<Window x:Class="MedKalcul.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MedKalcul"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel>
+            <TextBlock Text="Расчет фактора риска ВТЭО" Name ="chkPreviousVTE"/>
+            <GroupBox Header="Предсуществующие факторы риска">
+                <StackPanel Height="92" Margin="0,0,-25,0">
+                    <CheckBox>Предшествующее ВТЭО (за исключением однократного эпизода, связанного с большим
+хирургическим вмешательством)</CheckBox>
+                    <CheckBox>Предшествующее ВТЭО, спровоцированное большим хирургическим вмешательством</CheckBox>
+                    <CheckBox Height="17" Width="320">Подтвержденное наличие тромбофилии высокого риска</CheckBox>
+                    <Expander>
+                        <StackPanel Height="319">
+                            <RadioButton>Антифосфолипидный синдром (АФС)</RadioButton>
+                            <RadioButton>гомозиготная мутация гена фактора V (мутация Лейден F5 G1691A) или rs 6025</RadioButton>
+                            <RadioButton>гомозиготная мутация гена фактора II (протромбина) F2 G20210А или rs 179996</RadioButton>
+                            <RadioButton>сочетание гетерозиготных мутаций факторов V (Лейден) и II (протромбина);</RadioButton>
+                            <RadioButton>дефицит АТ</RadioButton>
+                            <RadioButton>дефицит протеина С</RadioButton>
+                            <RadioButton>дефицит протеина S</RadioButton>
+                            <TextBox>Сопутствующие заболевания</TextBox>
+                            <TextBlock>онкологическое заболевание;</TextBlock>
+                            <TextBlock>пароксизмальная ночная гемоглобинурия,</TextBlock>
+                            <TextBlock>сердечная недостаточность;</TextBlock>
+                            <TextBlock>активная системная красная волчанка</TextBlock>
+                            <TextBlock>воспалительная полиартропатия,</TextBlock>
+                            <TextBlock>воспалительное заболевание кишечника;</TextBlock>
+                            <TextBlock>нефротический синдром;</TextBlock>
+                            <TextBlock>сахарный диабет I типа с нефропатией;</TextBlock>
+                            <TextBlock>серповидноклеточная анемия;</TextBlock>
+                            <TextBlock>наркомания с внутривенным введением наркотиков в настоящее время</TextBlock>
+                            <CheckBox>Семейный анамнез неспровоцированной или связанное с воздействием эстрогена ВТЭО
+у родственника первой степени родства</CheckBox>
+                            <CheckBox>Известная тромбофилия низкого риска (без ВТЭО)</CheckBox>
+
+                        </StackPanel>
+                    </Expander>
+                </StackPanel>
+            </GroupBox>
+
+        </StackPanel>
+    </Grid>
+</Window>
