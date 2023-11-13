@@ -1,0 +1,30 @@
+C:\Users\admin\source\repos\MedKalcul\MedKalcul\bin\Debug\MedKalcul.exe.config
+C:\Users\admin\source\repos\MedKalcul\MedKalcul\bin\Debug\MedKalcul.exe
+C:\Users\admin\source\repos\MedKalcul\MedKalcul\bin\Debug\MedKalcul.pdb
+C:\Users\admin\source\repos\MedKalcul\MedKalcul\obj\Debug\MedKalcul.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\MedKalcul\MedKalcul\obj\Debug\MainWindow.g.cs
+C:\Users\admin\source\repos\MedKalcul\MedKalcul\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\MedKalcul\MedKalcul\obj\Debug\MedKalcul_MarkupCompile.cache
+C:\Users\admin\source\repos\MedKalcul\MedKalcul\obj\Debug\MedKalcul_MarkupCompile.lref
+C:\Users\admin\source\repos\MedKalcul\MedKalcul\obj\Debug\MainWindow.baml
+C:\Users\admin\source\repos\MedKalcul\MedKalcul\obj\Debug\MedKalcul.g.resources
+C:\Users\admin\source\repos\MedKalcul\MedKalcul\obj\Debug\MedKalcul.Properties.Resources.resources
+C:\Users\admin\source\repos\MedKalcul\MedKalcul\obj\Debug\MedKalcul.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\MedKalcul\MedKalcul\obj\Debug\MedKalcul.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MedKalcul\MedKalcul\obj\Debug\MedKalcul.exe
+C:\Users\admin\source\repos\MedKalcul\MedKalcul\obj\Debug\MedKalcul.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\C#\MedKalcul\MedKalcul\bin\Debug\MedKalcul.exe.config
+C:\Users\pavel\OneDrive\Рабочий стол\C#\MedKalcul\MedKalcul\bin\Debug\MedKalcul.exe
+C:\Users\pavel\OneDrive\Рабочий стол\C#\MedKalcul\MedKalcul\bin\Debug\MedKalcul.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\C#\MedKalcul\MedKalcul\obj\Debug\MedKalcul.csproj.AssemblyReference.cache
+C:\Users\pavel\OneDrive\Рабочий стол\C#\MedKalcul\MedKalcul\obj\Debug\MainWindow.g.cs
+C:\Users\pavel\OneDrive\Рабочий стол\C#\MedKalcul\MedKalcul\obj\Debug\App.g.cs
+C:\Users\pavel\OneDrive\Рабочий стол\C#\MedKalcul\MedKalcul\obj\Debug\MedKalcul_MarkupCompile.cache
+C:\Users\pavel\OneDrive\Рабочий стол\C#\MedKalcul\MedKalcul\obj\Debug\MedKalcul_MarkupCompile.lref
+C:\Users\pavel\OneDrive\Рабочий стол\C#\MedKalcul\MedKalcul\obj\Debug\MainWindow.baml
+C:\Users\pavel\OneDrive\Рабочий стол\C#\MedKalcul\MedKalcul\obj\Debug\MedKalcul.g.resources
+C:\Users\pavel\OneDrive\Рабочий стол\C#\MedKalcul\MedKalcul\obj\Debug\MedKalcul.Properties.Resources.resources
+C:\Users\pavel\OneDrive\Рабочий стол\C#\MedKalcul\MedKalcul\obj\Debug\MedKalcul.csproj.GenerateResource.cache
+C:\Users\pavel\OneDrive\Рабочий стол\C#\MedKalcul\MedKalcul\obj\Debug\MedKalcul.csproj.CoreCompileInputs.cache
+C:\Users\pavel\OneDrive\Рабочий стол\C#\MedKalcul\MedKalcul\obj\Debug\MedKalcul.exe
+C:\Users\pavel\OneDrive\Рабочий стол\C#\MedKalcul\MedKalcul\obj\Debug\MedKalcul.pdb
